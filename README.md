@@ -1,4 +1,4 @@
-# 🐍 Python Programming Internship
+# 🐍 TechnickNest Python Programming Internship
 
 This repository contains my task submissions from a Python programming internship, organized by week. Each file covers fundamentals, input handling, and basic problem solving as part of my journey learning Python for AI and data driven applications.
 
